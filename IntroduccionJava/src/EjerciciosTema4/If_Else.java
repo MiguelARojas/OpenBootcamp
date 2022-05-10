@@ -1,6 +1,6 @@
 package EjerciciosTema4;
 
-public class main {
+public class If_Else {
     public static void main(String[] args) {
 
         int numerolf = -1;
