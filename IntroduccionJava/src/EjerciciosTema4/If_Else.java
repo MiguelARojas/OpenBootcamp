@@ -1,5 +1,9 @@
 package EjerciciosTema4;
 
+/*
+    En este programa se vera como funciona la sentencia if else
+*/
+
 public class If_Else {
     public static void main(String[] args) {
 
