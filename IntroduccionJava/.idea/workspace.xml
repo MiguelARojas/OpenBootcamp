@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a11b595-9d5c-4f6b-8eac-2636acfcb074" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema3/carro$Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema3/carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema3/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema4/Do_While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema4/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema4/If_Else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema4/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema4/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema3/carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema3/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema4/Do_While.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema4/For.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema4/If_Else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema4/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema4/While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema8/persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosTema8/persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
