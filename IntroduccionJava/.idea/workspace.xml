@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a11b595-9d5c-4f6b-8eac-2636acfcb074" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosTema9/persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema8/persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntroduccionJava/EjerciciosTema8/persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosTema8/persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjerciciosTema8/persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -24,7 +30,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="291qNFgLMDqyFmgGdfts8YM5VeT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +41,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.persona (1)">
+    <configuration name="persona (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosTema9.persona" />
+      <module name="IntroduccionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosTema9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosTema8.persona" />
       <module name="IntroduccionJava" />
@@ -49,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.persona (1)" />
         <item itemvalue="Application.persona" />
       </list>
     </recent_temporary>
@@ -63,5 +85,16 @@
       <updated>1652290898844</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
