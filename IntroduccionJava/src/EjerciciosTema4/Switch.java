@@ -7,7 +7,7 @@ package EjerciciosTema4;
 public class Switch {
     public static void main(String[] args) {
         String estacion = "INVIERNO";
-        
+
         switch (estacion){
             case "PRIMAVERA":
                 System.out.println("Te encuentras en la estacion de Primavera");
