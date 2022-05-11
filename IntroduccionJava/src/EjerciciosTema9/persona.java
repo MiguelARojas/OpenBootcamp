@@ -58,5 +58,20 @@ public class persona {
         }
     }
 
-    
+    static class Trabajador extends Persona {
+        // creamos nuestra variable salario
+        private int salario;
+
+        // crearemos el set y get
+        public void setSalario(int salario){
+            this.salario = salario;
+        }
+
+        public int getSalario(){
+            return this.salario;
+        }
+
+    }
+
+
 }
