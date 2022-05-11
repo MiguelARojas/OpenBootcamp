@@ -11,7 +11,7 @@
 |Tercer Ejercicio|Ejercicios Tema 8|[Link al repo](https://github.com/MiguelARojas/OpenBootcamp/tree/main/IntroduccionJava/src/EjerciciosTema8)
 |Cuarto Ejercicio|Ejercicios Tema 9|[Link al repo](https://github.com/MiguelARojas/OpenBootcamp/tree/main/IntroduccionJava/src/EjerciciosTema9)
 
-## Introducción a la programación
+## Python
 | Ejercicio | Link al repo |
 | ------------- | -----:|
 |Ejercicio 1|[Link al repo](https://github.com/MiguelARojas/OpenBootcamp/tree/main/Python/Evidencias)
