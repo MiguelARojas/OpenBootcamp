@@ -7,10 +7,22 @@ package EjerciciosTema8;
 
 public class persona {
     public static void main(String[] args) {
+        // creamos un objeto de nuestra clase persona
+        Persona persona = new Persona();
+
+        // hacemos uso de nuestros setters
+        persona.setAge(22);
+        persona.setName("Miguel");
+        persona.setPhone(333391968);
+
+        // hacemos uso de nuestros getters
+        System.out.println(persona.getAge());
+        System.out.println(persona.getName());
+        System.out.println(persona.getPhone());
 
     }
 
-    class Persona {
+    static class Persona {
         // declaramos nuestras variables privadas
         private int age;
         private String name;
