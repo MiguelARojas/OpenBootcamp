@@ -14,4 +14,4 @@
 ## Python
 | Ejercicio | Link al repo |
 | ------------- | -----:|
-|Ejercicio 1|[Link al repo](https://github.com/MiguelARojas/OpenBootcamp/tree/main/Python/Evidencias)
+|Ejercicio 1|[Link al repo](https://github.com/MiguelARojas/OpenBootcamp/blob/main/Python/Evidencias/Ejercicio_1.jpeg)
