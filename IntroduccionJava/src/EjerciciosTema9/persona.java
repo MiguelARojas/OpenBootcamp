@@ -42,4 +42,21 @@ public class persona {
             return this.phone;
         }
     }
+
+
+    static class Cliente extends Persona{
+        // creamos nuestra variable credito
+        private int credito;
+
+        // crearemos el set y el get de la variable credito
+        public void setCredito(int credito){
+            this.credito = credito;
+        }
+
+        public int getCredito(){
+            return this.credito = credito;
+        }
+    }
+
+    
 }
